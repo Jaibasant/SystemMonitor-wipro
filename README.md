@@ -30,7 +30,7 @@ Make sure you are using a Linux environment (Ubuntu recommended).
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/CodeByRajkumar/SystemMonitor.git
+git clone https://github.com/Jaibasant/SystemMonitor-wipro.git
 cd SystemMonitor
 ```
 2. Compile the Project
