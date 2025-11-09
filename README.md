@@ -33,15 +33,4 @@ Make sure you are using a Linux environment (Ubuntu recommended).
 git clone https://github.com/CodeByRajkumar/SystemMonitor.git
 cd SystemMonitor
 ```
-### 2. Compile the Project
-```bash
-make
-```
-### 3. Run the Monitor
-```bash
-./sysmon
-```
-### 4. Clean Build Files
-```bash
-make clean
-```
+
