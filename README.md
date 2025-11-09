@@ -33,4 +33,15 @@ Make sure you are using a Linux environment (Ubuntu recommended).
 git clone https://github.com/CodeByRajkumar/SystemMonitor.git
 cd SystemMonitor
 ```
-
+2. Compile the Project
+```bash
+g++ main.cpp sysinfo.cpp process.cpp -o systemmonitor
+```
+3. Run the Monitor
+```bash
+./systemmonitor
+```
+4. Clean Build Files
+```bash
+rm -f systemmonitor
+```
